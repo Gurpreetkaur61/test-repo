@@ -1,0 +1,17 @@
+/* Basic styles for your test page */
+body {
+    background-color: #f0f4f8;
+    color: #222;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    font-size: 1.2rem;
+}
+
+h1 {
+    color: #3366cc;
+}
+
+p {
+    margin-top: 20px;
+}
